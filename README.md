@@ -1,4 +1,4 @@
-<h1>Ronaldo Muniz Jr 💻</h1>
+<h1>Ronaldo Muniz Jr. 💻</h1>
 
 <a href = "https://www.linkedin.com/in/roomjr/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
