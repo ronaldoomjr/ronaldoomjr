@@ -10,7 +10,7 @@
 
 Skills:
 
-💻 HTML, CSS, Javascript, React.js, React Native, Python, Django.
+💻 Javascript, Typescript, Node.js, Next.js, React.js, React Native.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoomjr)](https://github.com/ronaldoomjr/github-readme-stats)
 
