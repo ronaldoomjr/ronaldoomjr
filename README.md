@@ -12,7 +12,7 @@ Skills:
 
 💻 Javascript, Typescript, Node.js, Next.js, React.js, React Native.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoomjr)](https://github.com/ronaldoomjr/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-theta-five-32.vercel.app/api?username=ronaldoomjr)](https://github.com/ronaldoomjr/github-readme-stats)
 
 <!---
 ronaldoomjr/ronaldoomjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
