@@ -12,7 +12,7 @@ Skills:
 
 💻 Java, Javascript, Typescript, Node.js, Next.js, React.js, React Native.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoomjr&theme=transparent&bg_color=282a36&border_color=ff79c6&show_icons=true&icon_color=50fa7b&title_color=00aeff&text_color=e03c8a)(https://github.com/ronaldoomjr/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldoomjr&theme=transparent&bg_color=282a36&border_color=ff79c6&show_icons=true&icon_color=50fa7b&title_color=00aeff&text_color=e03c8a)
 
 <!---
 ronaldoomjr/ronaldoomjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
